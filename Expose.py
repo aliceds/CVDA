@@ -1,5 +1,4 @@
-# Hello World
+# Addition
 
-def hello() :
-  print "Hello World !"
-  
+def Addi(a,b) :
+  return a+b  
